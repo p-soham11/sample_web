@@ -1,0 +1,16 @@
+img{
+    width: 30%;
+    float:left;
+    margin: 1.66%;
+}
+p{
+	font-family: Special Elite;
+	font-size: 52px;
+	text-align: center;
+}
+p:nth-of-type(2){
+    font-family: Satisfy;
+    text-align: right;
+    font-size: 25px;
+    padding-right: 40px;
+}
