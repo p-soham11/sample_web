@@ -1,2 +1,5 @@
-# sample_web
-It has some sample of simple webpages
+# Sample Webpages
+
+It consists of some simple webpages which are beginner friendly.
+
+Hope you will enjoy it :)
